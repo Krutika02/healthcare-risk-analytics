@@ -174,3 +174,10 @@ healthcare-risk-analytics/
 ├── Healthcare_Risk_Project.ipynb
 ├── requirements.txt
 └── README.md
+
+
+## 🚀 Streamlit Application
+
+The interactive application provides both patient-level explainable risk assessment and population-level healthcare analytics.
+
+**Live Application:** [Launch Healthcare Risk Analytics](https://healthcare-risk-analytics.streamlit.app)
