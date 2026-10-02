@@ -1,0 +1,201 @@
+PatientID,Name,Age,Gender,DiagnosisID,AdmissionDate,DischargeDate,OutcomeID,TreatmentCost,DiagnosisName,OutcomeName,Blood Pressure,Blood Sugar,Cholesterol,Creatinine,Hemoglobin,Vitamin D,LengthOfStay,AdverseOutcome,LabTestsAvailable,RiskScore,RiskLevel
+1,Edward Montes,68,M,2,2025-03-22,2025-04-04,1,4443,Diabetes,Recovered,,,,,,,13,0,0,1,Moderate
+2,Jessica Zimmerman,81,M,2,2025-03-31,2025-04-02,2,4265,Diabetes,Complicated,,245.0,,,,,2,1,1,2,Moderate
+3,Gina Alexander,58,M,6,2025-01-08,2025-03-13,1,4188,COPD,Recovered,,,,,,,64,0,0,1,Moderate
+4,Lori Green,44,F,3,2025-04-03,2025-04-05,1,9783,Heart Disease,Recovered,,,,,,162.8,2,0,1,1,Moderate
+5,Jack Logan,72,F,9,2025-06-03,2025-06-04,1,5005,Kidney Disease,Recovered,,,67.0,,,,1,0,1,2,Moderate
+6,Melinda Robinson,37,F,4,2025-03-31,2025-04-05,1,5281,Asthma,Recovered,,,,,,,5,0,0,0,Low
+7,Sherry Robinson,50,F,1,2025-06-11,2025-07-05,2,2984,Hypertension,Complicated,133.8,,,,90.2,296.9,24,1,3,0,Low
+8,James Watts,68,M,4,2025-04-25,2025-06-19,1,9136,Asthma,Recovered,,,,,89.9,,55,0,1,1,Moderate
+9,Jeanne Butler,87,F,1,2025-04-15,2025-04-17,2,9790,Hypertension,Complicated,,,,,242.6,,2,1,1,1,Moderate
+10,Benjamin Rogers,48,M,5,2025-05-15,2025-05-19,2,3639,Stroke,Complicated,,,,,,220.1,4,1,1,1,Moderate
+11,Carol Sanchez,52,M,4,2025-02-27,2025-04-18,3,2827,Asthma,Deceased,68.1,,135.5,,,170.0,50,1,3,0,Low
+12,Stacy Clark,40,F,8,2025-04-24,2025-05-18,2,4730,Arthritis,Complicated,,,232.9,217.85,267.7,,24,1,3,1,Moderate
+13,Kimberly Chase,40,F,8,2025-03-16,2025-06-07,3,5531,Arthritis,Deceased,,,,,,,83,1,0,0,Low
+14,Cody Ryan,53,F,7,2025-06-06,2025-06-10,2,9147,Cancer,Complicated,,164.3,,,,,4,1,1,2,Moderate
+15,Kimberly Alexander,82,F,3,2025-04-30,2025-05-03,2,6451,Heart Disease,Complicated,,,,,,,3,1,0,2,Moderate
+16,Olivia Roy,65,F,1,2025-06-13,2025-06-15,2,9151,Hypertension,Complicated,,68.0,,,,,2,1,1,0,Low
+17,Sabrina Medina,69,F,1,2025-01-21,2025-05-22,3,7443,Hypertension,Deceased,,222.6,186.9,,,,121,1,2,2,Moderate
+18,Jennifer Wright,53,F,3,2025-06-13,2025-06-22,3,9300,Heart Disease,Deceased,,,,,,,9,1,0,1,Moderate
+19,Christian Lynch,32,F,6,2025-05-18,2025-05-20,1,4935,COPD,Recovered,,,228.5,,,,2,0,1,2,Moderate
+20,Jorge Castillo,51,M,7,2025-04-11,2025-07-09,3,5876,Cancer,Deceased,,,222.0,,,,89,1,1,2,Moderate
+21,Nicholas Wilcox,82,F,6,2025-06-01,2025-06-11,3,7959,COPD,Deceased,,,,,,,10,1,0,2,Moderate
+22,Toni Gomez,31,F,6,2025-06-26,2025-07-03,3,2126,COPD,Deceased,,,,,156.5,,7,1,1,1,Moderate
+23,Emily King,53,M,6,2025-04-09,2025-06-23,3,5177,COPD,Deceased,,,,,,,75,1,0,1,Moderate
+24,Jordan Harris,73,F,3,2025-02-05,2025-04-02,1,5056,Heart Disease,Recovered,,,,,293.4,,56,0,1,2,Moderate
+25,Adriana Rogers,59,M,6,2025-04-06,2025-06-03,3,2603,COPD,Deceased,,91.9,247.4,118.4,,,58,1,3,2,Moderate
+26,Samuel Thompson,67,M,8,2025-06-01,2025-06-02,2,9966,Arthritis,Complicated,,197.35000000000002,293.7,,,,1,1,2,3,High
+27,Brenda Huber,31,F,2,2025-05-31,2025-06-01,2,5449,Diabetes,Complicated,,,,,,168.3,1,1,1,0,Low
+28,Brett Washington,89,M,5,2025-02-06,2025-04-29,3,8024,Stroke,Deceased,,,,,,,82,1,0,2,Moderate
+29,Katherine Gonzales,50,M,1,2025-01-12,2025-01-14,3,7109,Hypertension,Deceased,,193.60000000000002,,,115.0,,2,1,2,1,Moderate
+30,Jacqueline Bauer,62,M,1,2025-04-23,2025-04-27,2,6146,Hypertension,Complicated,,,,,,,4,1,0,0,Low
+31,Brittany Walker,41,M,5,2025-01-13,2025-07-01,2,9196,Stroke,Complicated,,,,,96.4,,169,1,1,1,Moderate
+32,Tommy Atkinson,87,F,3,2025-01-23,2025-01-27,1,5533,Heart Disease,Recovered,,,,,,99.9,4,0,1,2,Moderate
+33,Miss Kathryn Mitchell,51,M,4,2025-04-09,2025-05-02,2,5367,Asthma,Complicated,,,204.5,,,,23,1,1,1,Moderate
+34,Steven Morales,73,F,3,2025-04-15,2025-04-24,2,5368,Heart Disease,Complicated,,,,118.6,,,9,1,1,2,Moderate
+35,Anthony Frederick,54,M,1,2025-01-30,2025-02-12,3,5797,Hypertension,Deceased,209.1,,,,,,13,1,1,0,Low
+36,Beverly Dillon,78,M,1,2025-01-17,2025-04-11,2,8922,Hypertension,Complicated,,162.6,225.6,,,,84,1,2,3,High
+37,Monica Walker,56,M,5,2025-04-23,2025-05-03,1,7526,Stroke,Recovered,,,,172.65,,,10,0,1,1,Moderate
+38,Russell Small,88,M,6,2025-03-03,2025-03-22,2,3792,COPD,Complicated,,,,,,,19,1,0,2,Moderate
+39,Matthew Rios,71,F,3,2025-03-25,2025-03-26,3,4861,Heart Disease,Deceased,76.1,265.0,,,,,1,1,2,3,High
+40,Nicole Vargas,57,F,9,2025-04-22,2025-06-12,3,7732,Kidney Disease,Deceased,,145.2,,148.1,,,51,1,2,2,Moderate
+41,Richard Hill,89,M,5,2025-03-27,2025-06-20,2,5476,Stroke,Complicated,,209.6,,,,,85,1,1,3,High
+42,Bonnie Herman,45,M,8,2025-05-21,2025-07-10,3,5417,Arthritis,Deceased,100.0,,,,,285.9,50,1,2,0,Low
+43,Nicholas Wright,44,F,1,2025-01-19,2025-05-07,1,3645,Hypertension,Recovered,,,,,,,108,0,0,0,Low
+44,Kelsey Sanchez,76,M,5,2025-06-26,2025-07-05,1,8563,Stroke,Recovered,,134.9,,,,,9,0,1,3,High
+45,Deborah Little,80,M,3,2025-04-10,2025-05-12,2,3205,Heart Disease,Complicated,,,,,,,32,1,0,2,Moderate
+46,Mrs. Carol Andrade,73,M,1,2025-05-20,2025-05-24,2,5030,Hypertension,Complicated,,,,79.3,,,4,1,1,1,Moderate
+47,Carlos Gutierrez,84,F,4,2025-05-27,2025-06-05,2,4872,Asthma,Complicated,212.6,,240.3,,,181.6,9,1,3,2,Moderate
+48,Casey Schneider,81,F,5,2025-03-17,2025-03-24,3,5072,Stroke,Deceased,,,,,,,7,1,0,2,Moderate
+49,Lisa Frazier,86,F,7,2025-01-09,2025-05-22,1,3854,Cancer,Recovered,70.0,,,,,,133,0,1,2,Moderate
+50,Katie Lawson,32,M,1,2025-01-28,2025-03-07,1,6021,Hypertension,Recovered,,,,,,,38,0,0,0,Low
+51,Mary Johnson,66,M,3,2025-05-08,2025-06-03,3,6662,Heart Disease,Deceased,66.1,,,,,,26,1,1,2,Moderate
+52,Michael Maxwell,80,F,2,2025-02-21,2025-05-01,1,8514,Diabetes,Recovered,,,,,,,69,0,0,1,Moderate
+53,Patrick Mccormick,36,F,9,2025-03-24,2025-03-28,2,7031,Kidney Disease,Complicated,,,,,,217.9,4,1,1,1,Moderate
+54,Bruce Jones,50,F,10,2025-04-21,2025-06-09,2,8030,Liver Disease,Complicated,245.0,,,,,157.6,49,1,2,1,Moderate
+55,Austin Huffman,38,F,6,2025-05-24,2025-06-01,2,4708,COPD,Complicated,210.9,256.5,170.1,,,,8,1,3,2,Moderate
+56,Heather Peterson,68,M,10,2025-04-27,2025-05-31,1,5502,Liver Disease,Recovered,174.7,,,,,,34,0,1,2,Moderate
+57,Justin Keller,47,F,3,2025-03-10,2025-03-16,2,9112,Heart Disease,Complicated,292.0,,,163.1,,,6,1,2,1,Moderate
+58,Robert Aguirre,33,M,8,2025-04-09,2025-04-19,3,3332,Arthritis,Deceased,,,,,,,10,1,0,0,Low
+59,Christopher Hoffman,54,F,8,2025-05-20,2025-07-07,3,9304,Arthritis,Deceased,230.55,,,,,239.6,48,1,2,0,Low
+60,Tamara Pacheco,89,M,2,2025-01-25,2025-04-22,1,2201,Diabetes,Recovered,,,,,,,87,0,0,1,Moderate
+61,Jared Hughes,43,F,6,2025-06-29,2025-07-04,3,5507,COPD,Deceased,,,,191.9,,,5,1,1,1,Moderate
+62,Samantha Peck,79,F,7,2025-05-03,2025-05-04,3,8456,Cancer,Deceased,,,70.4,,,,1,1,1,2,Moderate
+63,Jared Jacobs,87,F,2,2025-02-22,2025-02-28,1,6212,Diabetes,Recovered,,,,,,,6,0,0,1,Moderate
+64,Rachel Johnson,38,F,10,2025-05-31,2025-06-03,2,9833,Liver Disease,Complicated,,,,,,81.3,3,1,1,1,Moderate
+65,Lauren Skinner,55,M,2,2025-05-24,2025-05-31,2,7032,Diabetes,Complicated,,,,,,,7,1,0,0,Low
+66,Tina Rodriguez PhD,82,F,10,2025-02-26,2025-03-04,2,9970,Liver Disease,Complicated,,,,,,,6,1,0,2,Moderate
+67,Shirley Spencer,31,M,1,2025-02-08,2025-03-29,1,2574,Hypertension,Recovered,,,,,,,49,0,0,0,Low
+68,Daniel Livingston,49,M,8,2025-04-19,2025-04-24,3,8387,Arthritis,Deceased,,,,,,,5,1,0,0,Low
+69,Stephen Wright,57,M,1,2025-06-30,2025-07-07,2,2536,Hypertension,Complicated,,,85.6,,,,7,1,1,0,Low
+70,James Leblanc,76,M,9,2025-02-11,2025-03-02,2,3625,Kidney Disease,Complicated,,,118.3,,,,19,1,1,2,Moderate
+71,John Dawson,89,F,6,2025-06-16,2025-06-24,1,4122,COPD,Recovered,,,,,,,8,0,0,2,Moderate
+72,Sharon Miller,36,M,7,2025-05-22,2025-05-25,2,9973,Cancer,Complicated,,,,,159.7,,3,1,1,1,Moderate
+73,Rhonda Nichols,73,M,10,2025-05-02,2025-05-06,1,2385,Liver Disease,Recovered,,,,,,58.3,4,0,1,2,Moderate
+74,William Mclaughlin,37,M,7,2025-05-13,2025-05-19,3,5281,Cancer,Deceased,,,,,245.10000000000002,,6,1,1,1,Moderate
+75,Melissa Edwards,76,F,10,2025-06-12,2025-06-14,1,2474,Liver Disease,Recovered,,,,213.6,,,2,0,1,2,Moderate
+76,Joshua Shaw,64,F,3,2025-03-16,2025-03-31,1,2417,Heart Disease,Recovered,,,,,103.3,,15,0,1,1,Moderate
+77,Yolanda Tucker,43,F,2,2025-05-26,2025-05-28,1,8490,Diabetes,Recovered,,,,,,,2,0,0,0,Low
+78,Sarah Anderson,46,F,9,2025-03-17,2025-03-24,1,5600,Kidney Disease,Recovered,,,,,,,7,0,0,1,Moderate
+79,Meagan Larson,65,M,8,2025-01-09,2025-05-21,3,8783,Arthritis,Deceased,,,,,,136.5,132,1,1,0,Low
+80,Kelly Huffman,79,M,10,2025-03-15,2025-05-27,3,7034,Liver Disease,Deceased,,,,65.1,,,73,1,1,2,Moderate
+81,Sarah Rivas,69,F,7,2025-05-25,2025-06-03,2,2954,Cancer,Complicated,,52.4,,,104.8,292.2,9,1,3,2,Moderate
+82,Erica Mills,33,M,9,2025-01-07,2025-03-24,3,6971,Kidney Disease,Deceased,,,,178.35,,,76,1,1,1,Moderate
+83,Theodore Oliver,31,M,4,2025-06-23,2025-06-25,3,6858,Asthma,Deceased,,,,,,111.8,2,1,1,0,Low
+84,Linda Mitchell,35,M,4,2025-05-21,2025-05-27,2,7298,Asthma,Complicated,,,,,,,6,1,0,0,Low
+85,Jason Harrington,83,F,1,2025-06-17,2025-06-23,3,3205,Hypertension,Deceased,176.9,,,158.1,,,6,1,2,1,Moderate
+86,Kim Salas DDS,71,F,8,2025-06-19,2025-06-29,1,6759,Arthritis,Recovered,146.6,,,,,266.1,10,0,2,1,Moderate
+87,Patrick Cantu,33,M,3,2025-05-17,2025-05-22,1,6120,Heart Disease,Recovered,57.8,,,,,,5,0,1,1,Moderate
+88,Brenda Evans,83,F,7,2025-06-27,2025-06-28,2,3990,Cancer,Complicated,,,,,,,1,1,0,2,Moderate
+89,Christopher Burch,58,F,2,2025-01-27,2025-05-15,2,7299,Diabetes,Complicated,,,,,,214.7,108,1,1,0,Low
+90,Stephanie Beard,47,F,2,2025-05-02,2025-05-10,2,6805,Diabetes,Complicated,,,,,,,8,1,0,0,Low
+91,James Boyer,55,F,7,2025-01-05,2025-05-04,1,5572,Cancer,Recovered,,,,,,,119,0,0,1,Moderate
+92,Julie Rhodes,73,F,6,2025-01-29,2025-04-30,3,7975,COPD,Deceased,,,,,,,91,1,0,2,Moderate
+93,Jennifer Howard,63,M,3,2025-06-14,2025-06-23,1,7280,Heart Disease,Recovered,,,,,,,9,0,0,1,Moderate
+94,Anthony Rodriguez,39,F,9,2025-06-15,2025-06-17,2,8320,Kidney Disease,Complicated,,,,,,,2,1,0,1,Moderate
+95,Alexander Rodgers,65,M,10,2025-03-24,2025-04-14,3,6380,Liver Disease,Deceased,,,,,,,21,1,0,1,Moderate
+96,Joshua Riley,43,M,6,2025-05-16,2025-05-23,3,6158,COPD,Deceased,,,,,,,7,1,0,1,Moderate
+97,Dennis Lynch,60,F,10,2025-04-19,2025-06-02,1,7098,Liver Disease,Recovered,,,,,,,44,0,0,1,Moderate
+98,Amanda Rivera,77,M,10,2025-03-06,2025-03-08,2,6757,Liver Disease,Complicated,242.7,,227.3,,59.9,70.6,2,1,4,3,High
+99,Mark Miller,44,M,6,2025-03-27,2025-05-21,1,4713,COPD,Recovered,205.2,,,,,,55,0,1,1,Moderate
+100,Cindy Rivas,37,M,1,2025-05-25,2025-06-03,3,4203,Hypertension,Deceased,,154.9,,,,,9,1,1,1,Moderate
+101,Kenneth Holden,43,F,4,2025-03-12,2025-05-21,1,7588,Asthma,Recovered,,250.4,,,,,70,0,1,1,Moderate
+102,Veronica Beard,52,F,10,2025-02-14,2025-02-19,1,5120,Liver Disease,Recovered,,185.3,,,,,5,0,1,2,Moderate
+103,Jordan Perry,89,M,6,2025-05-12,2025-05-22,2,2966,COPD,Complicated,,299.3,,,,,10,1,1,3,High
+104,Jaime Jacobs,86,F,6,2025-02-05,2025-06-13,2,6944,COPD,Complicated,,,250.1,,,,128,1,1,3,High
+105,Brenda Hines,69,F,5,2025-03-11,2025-04-12,3,7203,Stroke,Deceased,,,,,,,32,1,0,2,Moderate
+106,Nancy Weber,50,F,1,2025-06-08,2025-06-18,1,5432,Hypertension,Recovered,,,,,,142.1,10,0,1,0,Low
+107,Angela Schneider,45,F,8,2025-01-19,2025-07-06,1,2688,Arthritis,Recovered,,,,100.1,,,168,0,1,0,Low
+108,Richard Osborne,74,M,5,2025-04-18,2025-04-24,1,6243,Stroke,Recovered,,,,267.9,,57.9,6,0,2,2,Moderate
+109,Autumn Garrett,47,M,5,2025-06-16,2025-06-26,3,5701,Stroke,Deceased,194.5666666666667,,,,,,10,1,1,1,Moderate
+110,Patrick Webb,76,F,7,2025-04-01,2025-04-05,3,2341,Cancer,Deceased,,,,,,,4,1,0,2,Moderate
+111,Mrs. Amanda Bright MD,82,F,4,2025-03-31,2025-06-05,2,8619,Asthma,Complicated,,76.2,,,,,66,1,1,1,Moderate
+112,Anthony Marshall,53,M,6,2025-01-19,2025-01-30,2,7182,COPD,Complicated,121.8,,,,,,11,1,1,1,Moderate
+113,Kevin Vaughn,55,M,4,2025-02-08,2025-02-10,2,3724,Asthma,Complicated,,,,122.9,,,2,1,1,0,Low
+114,Dawn Hicks,54,F,3,2025-05-06,2025-05-07,1,7479,Heart Disease,Recovered,,,,,,55.5,1,0,1,1,Moderate
+115,Jeffrey Norris,89,M,7,2025-06-22,2025-06-28,1,8704,Cancer,Recovered,,,249.4,,130.9,266.8,6,0,3,3,High
+116,Antonio Ruiz,89,F,8,2025-05-21,2025-05-25,2,6422,Arthritis,Complicated,,,,,268.4,,4,1,1,1,Moderate
+117,Sarah Mason,89,F,4,2025-05-06,2025-05-11,1,3792,Asthma,Recovered,142.8,,212.9,,,,5,0,2,2,Moderate
+118,Nicholas Lee,74,M,2,2025-02-27,2025-06-07,2,3759,Diabetes,Complicated,,,,,,294.0,100,1,1,1,Moderate
+119,Dr. Edward Hebert,70,M,10,2025-05-28,2025-05-30,3,5212,Liver Disease,Deceased,,,75.6,,,,2,1,1,2,Moderate
+120,Sara Huffman,58,F,3,2025-03-02,2025-03-06,2,2989,Heart Disease,Complicated,,82.5,,,,,4,1,1,1,Moderate
+121,Ashley Rodriguez,44,F,1,2025-05-07,2025-05-22,3,4262,Hypertension,Deceased,,,,,,,15,1,0,0,Low
+122,Jennifer Ramirez,74,M,8,2025-04-15,2025-04-17,1,4482,Arthritis,Recovered,,,,,107.5,170.4,2,0,2,1,Moderate
+123,Amanda Richardson,30,F,3,2025-06-16,2025-06-23,2,2951,Heart Disease,Complicated,,,,,,,7,1,0,1,Moderate
+124,Jake Bryan,54,M,10,2025-01-01,2025-02-24,1,2722,Liver Disease,Recovered,,,,,,,54,0,0,1,Moderate
+125,James Barron,36,F,7,2025-05-11,2025-05-16,3,5389,Cancer,Deceased,,,204.2,,,,5,1,1,2,Moderate
+126,Carmen Rosales,38,M,10,2025-04-02,2025-07-05,3,4079,Liver Disease,Deceased,,,,,,,94,1,0,1,Moderate
+127,Joseph Medina,53,M,5,2025-04-23,2025-05-01,3,4717,Stroke,Deceased,,,,,,,8,1,0,1,Moderate
+128,Nancy Mcmahon,30,M,10,2025-06-02,2025-06-08,1,4332,Liver Disease,Recovered,,,87.8,56.1,,,6,0,2,1,Moderate
+129,Lindsey Vargas,73,F,5,2025-02-25,2025-06-13,1,5376,Stroke,Recovered,,,,,83.2,76.7,108,0,2,2,Moderate
+130,Rhonda Nguyen,37,F,7,2025-06-10,2025-06-13,1,6524,Cancer,Recovered,221.4,,,,208.2,,3,0,2,1,Moderate
+131,Charles Martin,53,M,9,2025-06-15,2025-06-21,1,3500,Kidney Disease,Recovered,,,,,226.6,,6,0,1,1,Moderate
+132,Christina Curtis,40,F,5,2025-04-27,2025-05-03,3,2285,Stroke,Deceased,,,,,,,6,1,0,1,Moderate
+133,Mary Jones,80,M,1,2025-05-14,2025-05-18,3,9311,Hypertension,Deceased,,,,,,,4,1,0,1,Moderate
+134,Christopher Miller,46,M,10,2025-02-27,2025-03-06,2,5495,Liver Disease,Complicated,,,,267.2,,,7,1,1,1,Moderate
+135,Brian Brown,37,F,10,2025-02-13,2025-04-13,2,9186,Liver Disease,Complicated,235.7,,,,,,59,1,1,1,Moderate
+136,Amanda Mason,64,F,1,2025-06-22,2025-06-27,1,4065,Hypertension,Recovered,,,,,,,5,0,0,0,Low
+137,Jordan Rodgers,64,M,2,2025-06-09,2025-06-11,3,2768,Diabetes,Deceased,,60.0,,,,66.8,2,1,2,0,Low
+138,Jessica Watson,62,F,6,2025-06-22,2025-07-02,3,8733,COPD,Deceased,,82.8,,,,,10,1,1,1,Moderate
+139,Edward Thornton,88,F,9,2025-03-02,2025-03-11,3,7490,Kidney Disease,Deceased,,,,,,,9,1,0,2,Moderate
+140,Randy Gutierrez,34,M,8,2025-02-16,2025-03-31,2,9342,Arthritis,Complicated,284.3,,,,,,43,1,1,0,Low
+141,Victoria Cole,71,M,5,2025-05-29,2025-06-01,2,5057,Stroke,Complicated,,,,,,,3,1,0,2,Moderate
+142,Tracy Chavez,68,F,1,2025-03-21,2025-03-30,3,6289,Hypertension,Deceased,,,57.3,,,,9,1,1,1,Moderate
+143,Kimberly Gregory,87,M,7,2025-04-28,2025-05-02,3,8645,Cancer,Deceased,,,,,,188.8,4,1,1,2,Moderate
+144,William Webb,70,M,5,2025-06-13,2025-06-16,3,7083,Stroke,Deceased,,,,,,,3,1,0,2,Moderate
+145,Donna Peterson,57,F,6,2025-05-27,2025-06-04,2,7232,COPD,Complicated,114.4,,,,280.2,,8,1,2,1,Moderate
+146,Jessica Long,36,M,7,2025-01-20,2025-04-18,3,4161,Cancer,Deceased,,,,,287.7,,88,1,1,1,Moderate
+147,Jamie Williams,38,M,3,2025-05-26,2025-07-08,3,5293,Heart Disease,Deceased,,,,,295.3,51.6,43,1,2,1,Moderate
+148,Guy Shepard,37,F,10,2025-02-16,2025-02-25,1,7797,Liver Disease,Recovered,,,,189.9,,290.7,9,0,2,1,Moderate
+149,Karen Mcbride,41,F,3,2025-02-18,2025-05-16,1,2946,Heart Disease,Recovered,,,52.9,,,267.9,87,0,2,1,Moderate
+150,Jeffery House,63,M,5,2025-01-14,2025-03-06,2,6926,Stroke,Complicated,296.7,,,,,,51,1,1,1,Moderate
+151,Natalie Skinner,62,M,6,2025-05-23,2025-05-30,3,9811,COPD,Deceased,,,258.0,,165.7,,7,1,2,2,Moderate
+152,Devin James,77,F,9,2025-06-08,2025-06-13,3,8016,Kidney Disease,Deceased,,,,,,110.5,5,1,1,2,Moderate
+153,Tami Warner,84,F,5,2025-01-01,2025-03-28,1,5335,Stroke,Recovered,,273.5,,,,,86,0,1,3,High
+154,Mrs. Carol Chambers,52,F,1,2025-04-27,2025-05-19,2,9068,Hypertension,Complicated,204.2,90.9,107.1,72.0,,,22,1,4,0,Low
+155,Traci Reyes,53,F,4,2025-02-23,2025-04-28,1,6150,Asthma,Recovered,,,,,,,64,0,0,0,Low
+156,Rhonda Robertson,66,M,5,2025-04-28,2025-06-12,1,9810,Stroke,Recovered,,,,,,,45,0,0,2,Moderate
+157,Tracy Wood,64,F,10,2025-01-03,2025-01-23,1,6895,Liver Disease,Recovered,,,,,,,20,0,0,1,Moderate
+158,Shannon Stewart,73,F,10,2025-05-24,2025-06-02,1,6873,Liver Disease,Recovered,,,,237.4,,,9,0,1,2,Moderate
+159,Juan Malone,69,M,5,2025-01-12,2025-05-04,3,3481,Stroke,Deceased,,,,,,,112,1,0,2,Moderate
+160,Kristin Chapman,51,F,7,2025-03-15,2025-03-19,3,3901,Cancer,Deceased,,,,,,,4,1,0,1,Moderate
+161,Ann Adams,56,M,4,2025-01-16,2025-01-22,1,8305,Asthma,Recovered,,,,,,254.5,6,0,1,0,Low
+162,Jesus Coleman,64,F,1,2025-04-12,2025-04-30,2,5451,Hypertension,Complicated,,,,,,,18,1,0,0,Low
+163,Shawn Burke,30,F,5,2025-06-01,2025-06-09,2,6064,Stroke,Complicated,,,,,,,8,1,0,1,Moderate
+164,Ruth Strong,64,F,7,2025-06-05,2025-06-06,2,8230,Cancer,Complicated,,,,,,200.0,1,1,1,1,Moderate
+165,Michael Warren,66,M,10,2025-04-27,2025-05-01,2,2054,Liver Disease,Complicated,,152.3,270.2,,,,4,1,2,4,High
+166,Raymond Chavez,76,M,10,2025-01-08,2025-02-16,1,9643,Liver Disease,Recovered,227.0,,,,,149.4,39,0,2,2,Moderate
+167,Scott Peterson,43,F,6,2025-05-02,2025-05-04,3,3823,COPD,Deceased,,,,,,,2,1,0,1,Moderate
+168,Frank Reid,32,M,5,2025-04-02,2025-04-03,2,7297,Stroke,Complicated,,,,244.1,,,1,1,1,1,Moderate
+169,Shawna Webb,30,M,4,2025-06-13,2025-06-19,1,5462,Asthma,Recovered,,,,,,,6,0,0,0,Low
+170,Gregory Murphy,34,M,2,2025-03-31,2025-04-07,2,9516,Diabetes,Complicated,,,,,,,7,1,0,0,Low
+171,Timothy Greene,55,M,4,2025-05-16,2025-05-21,2,5079,Asthma,Complicated,,,,,,222.4,5,1,1,0,Low
+172,Kimberly Brady,84,M,10,2025-03-01,2025-03-03,1,2832,Liver Disease,Recovered,,284.1,136.5,,,,2,0,2,3,High
+173,Mary Fowler,43,M,10,2025-06-27,2025-07-01,3,6408,Liver Disease,Deceased,,,,,58.1,,4,1,1,1,Moderate
+174,Alexander Bradshaw,68,F,3,2025-01-28,2025-05-15,3,4806,Heart Disease,Deceased,,,,,,,107,1,0,2,Moderate
+175,Jonathan Baird,56,F,10,2025-04-11,2025-04-21,1,7954,Liver Disease,Recovered,,,,,,,10,0,0,1,Moderate
+176,Rebecca Baker,38,M,1,2025-02-10,2025-02-16,3,8103,Hypertension,Deceased,,,194.7,82.2,,,6,1,2,0,Low
+177,Jennifer Sanchez,44,F,8,2025-06-04,2025-06-08,1,8102,Arthritis,Recovered,,,,,,,4,0,0,0,Low
+178,Rebecca Castaneda,44,F,5,2025-05-25,2025-06-02,1,4490,Stroke,Recovered,,,,,,,8,0,0,1,Moderate
+179,Darren Scott,55,F,4,2025-06-10,2025-06-17,1,7886,Asthma,Recovered,63.0,,,,,,7,0,1,0,Low
+180,Nicole Hall,71,F,8,2025-06-06,2025-06-14,3,2327,Arthritis,Deceased,,,,,,,8,1,0,1,Moderate
+181,Gary Wade,89,M,7,2025-05-21,2025-05-27,1,9221,Cancer,Recovered,,,195.5,,,,6,0,1,2,Moderate
+182,Kristen Wood,42,F,2,2025-02-15,2025-03-17,2,8904,Diabetes,Complicated,268.0,,,,,,30,1,1,0,Low
+183,Sean Valenzuela,80,F,1,2025-02-04,2025-04-28,3,5310,Hypertension,Deceased,,,,,,,83,1,0,1,Moderate
+184,James Smith,61,M,4,2025-05-14,2025-06-04,3,5300,Asthma,Deceased,,,,,,,21,1,0,0,Low
+185,Marcus Adams,68,M,8,2025-03-23,2025-04-30,3,8722,Arthritis,Deceased,,,,,,,38,1,0,1,Moderate
+186,Melissa Torres,78,F,2,2025-04-25,2025-04-30,3,9218,Diabetes,Deceased,,,,248.7,,,5,1,1,1,Moderate
+187,Robert Wade,81,F,3,2025-02-16,2025-02-19,2,9776,Heart Disease,Complicated,,223.7,,,,253.7,3,1,2,3,High
+188,Benjamin White,61,F,1,2025-06-02,2025-06-07,3,5675,Hypertension,Deceased,,,,,,208.5,5,1,1,0,Low
+189,James Jacobs,33,F,1,2025-01-10,2025-01-17,3,5054,Hypertension,Deceased,273.7,,,,,,7,1,1,0,Low
+190,Kristin Underwood,59,F,3,2025-02-25,2025-06-26,1,7383,Heart Disease,Recovered,131.6,,,,249.1,,121,0,2,1,Moderate
+191,David Moore,66,F,5,2025-01-30,2025-05-02,3,9585,Stroke,Deceased,,,,,,,92,1,0,2,Moderate
+192,Francisco Lester,52,M,3,2025-04-19,2025-04-22,2,9970,Heart Disease,Complicated,,,,,,,3,1,0,1,Moderate
+193,Nicholas Jennings,68,F,1,2025-01-05,2025-02-20,2,4143,Hypertension,Complicated,,,172.9,,,,46,1,1,1,Moderate
+194,Andrew Hawkins,74,F,1,2025-04-29,2025-06-27,2,7207,Hypertension,Complicated,,,161.5,,,137.7,59,1,2,1,Moderate
+195,Jonathan Potter,44,M,8,2025-02-02,2025-04-20,2,9245,Arthritis,Complicated,,,,283.0,,,77,1,1,0,Low
+196,Shelly Dominguez,72,M,10,2025-04-28,2025-05-02,3,3311,Liver Disease,Deceased,89.7,,,,,,4,1,1,2,Moderate
+197,Destiny Johnson,58,M,2,2025-03-06,2025-07-08,3,5191,Diabetes,Deceased,,185.3,,,,,124,1,1,1,Moderate
+198,Catherine Case,65,M,3,2025-05-26,2025-06-04,2,8957,Heart Disease,Complicated,,,,,,134.2,9,1,1,1,Moderate
+199,Dennis Wolfe,42,F,2,2025-06-26,2025-07-05,2,4538,Diabetes,Complicated,,,206.6,57.7,,,9,1,2,1,Moderate
+200,Gregory Bates,61,F,3,2025-01-11,2025-03-09,3,5983,Heart Disease,Deceased,,95.5,,,,,57,1,1,1,Moderate
