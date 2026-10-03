@@ -172,12 +172,43 @@ healthcare-risk-analytics/
 ├── app.py
 ├── healthcare_risk_final.csv
 ├── Healthcare_Risk_Project.ipynb
+├── Healthcare_Risk_Analytics_Dashboard.pbix
+├── Healthcare_Risk_Analytics_Dashboard.pdf
+├── powerbi_dashboard.png
 ├── requirements.txt
 └── README.md
+```
 
+---
 
 ## 🚀 Streamlit Application
 
 The interactive application provides both patient-level explainable risk assessment and population-level healthcare analytics.
 
 **Live Application:** [Launch Healthcare Risk Analytics](https://healthcare-risk-analytics.streamlit.app)
+
+---
+
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to explore patient risk stratification, outcomes, diagnosis patterns, and healthcare utilization.
+
+### Dashboard Highlights
+
+- **200** patient records analyzed
+- Risk distribution across Low, Moderate, and High groups
+- Patient outcome distribution
+- Average treatment cost by diagnosis
+- Patient distribution across diagnoses
+- Average treatment cost and length of stay KPIs
+- Interactive Diagnosis and Risk Level filters
+
+![Healthcare Risk Analytics Dashboard](powerbi_dashboard.png)
+
+The repository also includes the Power BI `.pbix` file and a PDF export of the completed dashboard.
+
+---
+
+## ⚠️ Disclaimer
+
+This project uses synthetic/demo healthcare data and was developed for educational and portfolio purposes. The risk-stratification framework is illustrative and should not be interpreted as a clinically validated prediction or medical decision-support system.
